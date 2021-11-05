@@ -1,6 +1,7 @@
 # FOTS
 
-#Get datasets
+datasets
+
 https://www.robots.ox.ac.uk/~vgg/data/scenetext/
 
 https://rrc.cvc.uab.es/?ch=4&com=tasks
